@@ -1,0 +1,15 @@
+
+div>img{
+height: 400px;
+border: 10px solid #ffda79;
+}
+
+body {
+  color: #555;
+  font-weight: 200;
+  font-size: 25px;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+  background-color: #ff793f;
+  text-align: center;
+}
